@@ -46,7 +46,7 @@ Key steps and insights:
 - Loss & Risk Analysis: Identified 12,499 loss-making orders, with Furniture contributing the most losses. High discounting was a key factor reducing profit margins  
 
 These insights provided a deeper understanding of business performance and key areas for improvement.
-## Data Visualization with PowerBI
+## [Data Visualization with PowerBI](Cleaned_Global_Superstore2_powerbi.xlsx.pbix)
 The final stage of the project involved building an interactive Power BI dashboard to visualize insights and support data-driven decision-making.
 
 Key steps:
