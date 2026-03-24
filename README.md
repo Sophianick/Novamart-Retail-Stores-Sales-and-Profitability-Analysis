@@ -19,7 +19,7 @@ Discount,
 Category,
 Region,
 Order Date
-## Data Cleaning and preparation with Excel
+[Data Cleaning and preparation with Excel](Cleaned_Global_Superstore2.csv)
 The dataset initially contained 51,291 rows and 24 columns, covering sales, profit, product, customer, region, and date information.
 
 Key cleaning steps included:
