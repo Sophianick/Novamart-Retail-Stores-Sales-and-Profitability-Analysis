@@ -32,6 +32,17 @@ Key cleaning steps included:
   - Year for trend analysis
 
      After cleaning, the dataset was reduced to 51,248 rows
+## SQL Analysis
+The dataset was analyzed using SQL Server to evaluate sales performance, profitability, regional trends, product performance, and risk factors.
 
+Key steps and insights:
+- Created a database (NovaMartDB) and imported the dataset for analysis  
+- Revenue & Profitability: Total revenue of 12.63M and profit of 1.47M, with an overall profit margin of 11.61% (moderate performance)  
+- Regional Analysis: Central region recorded the highest revenue and profit margin, while regions such as South, EMEA, and Southeast Asia showed lower profitability (below 10%)  
+- Product Performance: Technology category led in both revenue and profitability (with Phones as the top sub-category). Office Supplies showed stable margins, while Furniture had high revenue but low profit margin (~6.97%)  
+- Time Trends: Analyzed monthly and yearly performance patterns to identify sales trends  
+- Loss & Risk Analysis: Identified 12,499 loss-making orders, with Furniture contributing the most losses. High discounting was a key factor reducing profit margins  
+
+These insights provided a deeper understanding of business performance and key areas for improvement.
 
 
