@@ -39,7 +39,7 @@ Key cleaning steps included:
 
 [Product Performance](Product_Performance.sql)
 
-[Loss and Risks Analysis](Loss_& Risks_Analysis.sql)
+[Loss and Risks Analysis](Loss_&_Risks_Analysis.sql)
 
 The dataset was analyzed using SQL Server to evaluate sales performance, profitability, regional trends, product performance, and risk factors.
 
@@ -70,6 +70,16 @@ The dashboard was organized into key analytical sections:
 - Customer Insights
   ![Customer Insight](Customer_Insight.png) 
 
-This dashboard provides a comprehensive and user-friendly view of business performance, enabling stakeholders to make informed decisions.
+This dashboard provided a comprehensive and user-friendly view of the business performance, so the Stakeholders can know what is happening and make informed decisions
+## Recommendations
+Reduce agressive discount strategies.
+
+Restrict aggressive discounting on Tables and Bookcases.
+
+Review cost and logistics structure within low-performing regions.
+
+Increase Promotion on Technology Products.
+
+Replicate strategy that works for high performing regions across weaker regions
 
 
