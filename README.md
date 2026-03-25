@@ -59,10 +59,10 @@ The dashboard was organized into key analytical sections:
   ![Executive Overview](Overview.png)
   
 - Retail Performance & Profitability Analysis
-  ![Profitability Analysis](
+  ![Profitability Analysis](Profitability_Analysis.png)
   
 - Customer Insights
-  ![Customer Insight](Customer Insight.png) 
+  ![Customer Insight](Customer_Insight.png) 
 
 This dashboard provides a comprehensive and user-friendly view of business performance, enabling stakeholders to make informed decisions.
 
