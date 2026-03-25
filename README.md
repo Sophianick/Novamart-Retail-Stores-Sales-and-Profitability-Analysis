@@ -33,7 +33,13 @@ Key cleaning steps included:
 
      After cleaning, the dataset was reduced to 51,248 rows
 ## SQL Analysis
-[Regional Analysis](Regional Analysis.sql)
+[Regional Analysis](Regional_Analysis.sql)
+
+[Revenue and Profit Overview](Revenue_&_Profit_Overview.sql)
+
+[Product Performance](Product_Performance.sql)
+
+[Loss and Risks Analysis](Loss_& Risks_Analysis.sql)
 
 The dataset was analyzed using SQL Server to evaluate sales performance, profitability, regional trends, product performance, and risk factors.
 
