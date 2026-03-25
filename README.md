@@ -55,9 +55,14 @@ Key steps:
 - Designed an interactive dashboard to analyze sales performance, profitability trends, and customer behavior  
 
 The dashboard was organized into key analytical sections:
-- Executive Overview  
-- Retail Performance & Profitability Analysis  
-- Customer Insights  
+- Executive Overview
+  ![Executive Overview](Overview.png)
+  
+- Retail Performance & Profitability Analysis
+  ![Profitability Analysis](
+  
+- Customer Insights
+  ![Customer Insight](Customer Insight.png) 
 
 This dashboard provides a comprehensive and user-friendly view of business performance, enabling stakeholders to make informed decisions.
 
